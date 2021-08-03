@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.sharebazarbd.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/dse_id"
+        android:name="com.example.sharebazarbd.ui.dse.DseFragment"
+        android:label="@string/menu_dse"
+        tools:layout="@layout/fragment_dse" />
+
+    <fragment
+        android:id="@+id/cse_id"
+        android:name="com.example.sharebazarbd.ui.cse.CseFragment"
+        android:label="@string/menu_cse"
+        tools:layout="@layout/fragment_cse" />
+
+    <fragment
+        android:id="@+id/arthosuchak"
+        android:name="com.example.sharebazarbd.ui.arthosuchak.ArthosuchakFragment"
+        android:label="@string/menu_arthosuchak"
+        tools:layout="@layout/fragment_arthosuchak" />
+
+    <fragment
+        android:id="@+id/share_bazar"
+        android:name="com.example.sharebazarbd.ui.share_bazar.Share_Bazar"
+        android:label="@string/menu_share_bazar"
+        tools:layout="@layout/fragment_share__bazar" />
+
+    <fragment
+        android:id="@+id/share_news_24"
+        android:name="com.example.sharebazarbd.ui.cse.CseFragment"
+        android:label="@string/menu_share_news_24"
+        tools:layout="@layout/fragment_cse" />
+
+    <fragment
+        android:id="@+id/share_biz"
+        android:name="com.example.sharebazarbd.ui.share_biz.Share_Biz"
+        android:label="@string/menu_share_biz"
+        tools:layout="@layout/share__biz_fragment" />
+
+    <fragment
+        android:id="@+id/stock_bangladesh"
+        android:name="com.example.sharebazarbd.ui.stock_bangladesh.Stock_Bangladesh"
+        android:label="@string/menu_stock_bangladesh"
+        tools:layout="@layout/fragment_stock__bangladesh" />
+
+    <fragment
+        android:id="@+id/biniyog_barta"
+        android:name="com.example.sharebazarbd.ui.cse.CseFragment"
+        android:label="@string/menu_biniyog_barta"
+        tools:layout="@layout/fragment_cse" />
+
+    <fragment
+        android:id="@+id/sun_bd"
+        android:name="com.example.sharebazarbd.ui.cse.CseFragment"
+        android:label="@string/menu_sun_bd"
+        tools:layout="@layout/fragment_bussines__hour" />
+
+    <fragment
+        android:id="@+id/bussines_hour"
+        android:name="com.example.sharebazarbd.ui.bussines_hour.Bussines_Hour"
+        android:label="@string/menu_bussines_hour"
+        tools:layout="@layout/fragment_cse" />
+
+
+    <fragment
+        android:id="@+id/puji_bazar"
+        android:name="com.example.sharebazarbd.ui.cse.CseFragment"
+        android:label="@string/menu_puji_bazar"
+        tools:layout="@layout/fragment_cse" />
+
+    <fragment
+        android:id="@+id/ortho_songbad"
+        android:name="com.example.sharebazarbd.ui.cse.CseFragment"
+        android:label="@string/menu_ortho_songbad"
+        tools:layout="@layout/fragment_cse" />
+
+    <fragment
+        android:id="@+id/share_barta"
+        android:name="com.example.sharebazarbd.ui.cse.CseFragment"
+        android:label="@string/menu_share_barta"
+        tools:layout="@layout/fragment_cse" />
+
+    <fragment
+        android:id="@+id/share_market"
+        android:name="com.example.sharebazarbd.ui.cse.CseFragment"
+        android:label="@string/menu_share_market"
+        tools:layout="@layout/fragment_cse" />
+
+    <fragment
+        android:id="@+id/share_business"
+        android:name="com.example.sharebazarbd.ui.cse.CseFragment"
+        android:label="@string/menu_share_business"
+        tools:layout="@layout/fragment_cse" />
+
+
+
+</navigation>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/dse_id"
+            android:title="DSE Stock Live"
+            />
+
+        <item
+            android:id="@+id/cse_id"
+            android:title="CSE Stock Live"
+            />
+
+        <item
+            android:id="@+id/arthosuchak"
+            android:title="অর্থসূচক"
+            />
+
+        <item
+            android:id="@+id/share_bazar"
+            android:title="শেয়ার বাজার নিউজ.কম"
+            />
+
+        <item
+            android:id="@+id/share_news_24"
+            android:title="শেয়ার নিউজ ২৪"
+            />
+
+        <item
+            android:id="@+id/share_biz"
+            android:title="শেয়ার বিজ"
+            />
+
+        <item
+            android:id="@+id/stock_bangladesh"
+            android:title="স্টক বাংলাদেশ"
+            />
+
+        <item
+            android:id="@+id/biniyog_barta"
+            android:title="বিনিয়োগবার্তা"
+            />
+
+
+        <item
+            android:id="@+id/sun_bd"
+            android:title="সান বিডি ২৪"
+            />
+
+        <item
+            android:id="@+id/bussines_hour"
+            android:title="বিজনেস আওয়ার ২৪"
+            />
+
+        <item
+            android:id="@+id/puji_bazar"
+            android:title="পুঁজিবাজার.কম"
+            />
+
+        <item
+            android:id="@+id/ortho_songbad"
+            android:title="অর্থসংবাদ.কম"
+            />
+
+        <item
+            android:id="@+id/share_barta"
+            android:title="শেয়ারবার্তা ২৪ ডটকম"
+            />
+
+        <item
+            android:id="@+id/share_market"
+            android:title="শেয়ার মার্কেট বিডি"
+            />
+
+        <item
+            android:id="@+id/share_business"
+            android:title="শেয়ার বিজনেস24.কম"
+            />
+
+
+    </group>
+</menu>

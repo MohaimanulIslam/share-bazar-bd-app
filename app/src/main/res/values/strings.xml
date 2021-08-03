@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Share Bazar BD</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_dse">DSE Stock Live</string>
+    <string name="menu_cse">CSE Stock Live</string>
+    <string name="menu_arthosuchak">অর্থসূচক</string>
+    <string name="menu_share_bazar">শেয়ার বাজার নিউজ.কম</string>
+    <string name="menu_share_news_24">েয়ার নিউজ ২৪</string>
+    <string name="menu_share_biz">শেয়ার বিজ</string>
+    <string name="menu_stock_bangladesh">স্টক বাংলাদেশ</string>
+    <string name="menu_biniyog_barta">িনিয়োগবার্তা</string>
+    <string name="menu_sun_bd">সান বিডি ২৪</string>
+    <string name="menu_bussines_hour">িজনেস আওয়ার ২৪</string>
+    <string name="menu_puji_bazar">পুঁজিবাজার.কম</string>
+    <string name="menu_ortho_songbad">অর্থসংবাদ.কম</string>
+    <string name="menu_share_barta">শেয়ারবার্তা ২৪ ডটকম</string>
+    <string name="menu_share_market">শেয়ার মার্কেট বিডি</string>
+    <string name="menu_share_business">শেয়ার বিজনেস24.কম</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
